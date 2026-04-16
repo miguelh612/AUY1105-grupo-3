@@ -18,10 +18,10 @@ variable "AUY1105-webapp-vpc_id" {
 variable "ami_ubuntu" {
   description = "AMI de Ubuntu para EC2"
   type        = string
-  default     = "ami-0ec10929233384c7f"  
+  default     = "ami-0ec10929233384c7f"
 }
 
 variable "instance_type" {
-  type       = string
+  type    = string
   default = "t3.micro"
 }
