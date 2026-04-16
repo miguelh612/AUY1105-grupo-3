@@ -1,3 +1,7 @@
+## 1.2.0 - 16:19
+
+- Se corrige configuración EC2.
+
 ## 1.1.0 - 15:28
 
 - Se añade main.tf y VPC base.
