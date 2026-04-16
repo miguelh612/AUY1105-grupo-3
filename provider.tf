@@ -6,7 +6,9 @@ terraform {
     }
   }
 }
-
+rule "terraform_required_version" {
+  enabled = true
+}
 provider "aws" {
   region = "us-east-1"
 }
