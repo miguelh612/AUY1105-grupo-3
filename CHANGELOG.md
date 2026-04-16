@@ -1,3 +1,7 @@
+## 1.4.0 - 17:32
+
+- Añadida evaluación según Open Policy Agent.
+
 ## 1.3.0 - 16:27
 
 - Se agrega flujos de trabajo (Workflows) con archivos que contienen las herramientas necesarias para asegurar el codigo de la App.
