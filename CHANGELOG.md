@@ -1,3 +1,7 @@
+## 1.3.0 - 16:27
+
+- Se agrega flujos de trabajo (Workflows) con archivos que contienen las herramientas necesarias para asegurar el codigo de la App.
+
 ## 1.2.0 - 16:19
 
 - Se corrige configuración EC2.
