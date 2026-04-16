@@ -5,4 +5,4 @@
 
 -Para el uso del Workflow se necesita crear los archivos que contengan las herramientas que analizaran los archivos dentro del repositorio. Ya con eso configurado, cualquier modificación que se haga dentro de los archivos del repositorio el workflow empezara un Job que verifica los archivos terraform para poder validar que el codigo no tenga errores o alguna vulnerabilidad. 
 
-- Dando como proposito general el tener conocimiento sobre buenas practicas y permitir un flujo de trabajo mas optimizado y de calidad.
+-Dando como proposito general el tener conocimiento sobre buenas practicas y permitir un flujo de trabajo mas optimizado y de calidad.
