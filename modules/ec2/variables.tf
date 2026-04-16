@@ -1,15 +1,15 @@
-variable "public_subnet_1_id" {
+variable "AUY1105-webapp-public-subnet-1_id" {
   type = string
 }
 
-variable "public_subnet_2_id" {
-  type = string 
-}
-
-variable "sg_ec2_id" {
+variable "AUY1105-webapp-public-subnet-2_id" {
   type = string
 }
 
-variable "main_vpc_id" {
+variable "AUY1105-webapp-sg_ec2_id" {
+  type = string
+}
+
+variable "AUY1105-webapp-vpc_id" {
   type = string
 }
